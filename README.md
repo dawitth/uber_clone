@@ -16,3 +16,9 @@ This is an attempt to clone Uber app for iOS devices.
 - [ ] Driver View Controll
 - [ ] Sharing the driver location with the rider
 
+
+
+### Clone
+
+Clone this repo to your local machine using https://github.com/dawitth/uber_clone.git
+
