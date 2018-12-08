@@ -1,6 +1,6 @@
 # Uber Clone
 
-This is an attempt to mock Uber app for iOS devices. 
+This is an attempt to clone Uber app for iOS devices. 
 
 ![gif](http://g.recordit.co/GRVlpx0eqT.gif) . 
 
